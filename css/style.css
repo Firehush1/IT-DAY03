@@ -23,3 +23,10 @@ body{
 #pg-background{
     background-color: reIDd;
 }
+
+*{
+    background-color: bisque;
+    margin:0;
+    padding:0;
+
+}
