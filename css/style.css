@@ -17,10 +17,12 @@ body{
 }
 
 .bg-yellow-h1{
-    background-color: yellow;
+    background-color: rgb(139, 139, 90);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: small;
+    font-size:xx-large;
     text-align: center;
+    letter-spacing: 5 ch;
+    text-decoration:underline double;
 }
 
 #pg-background{
