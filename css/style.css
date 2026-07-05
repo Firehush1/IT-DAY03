@@ -2,3 +2,11 @@ h1 {background-color: rgb(65, 65, 151);
              color: rgb(0, 255, 34);
               text-align:center;
         }
+
+p{
+    background-color: yellowgreen;
+}
+
+body{
+    background-color:black;
+}
