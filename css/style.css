@@ -21,9 +21,20 @@ body {
     padding-right: 50px;
     padding-top: 50px; */
 
-    /* padding: 50px; */
+    padding: 50px;
+    border: 8px solid red;
+    border-radius: 100px;
+    border-style: dashed;
 
-    padding: 20px 50px 40px 20px;
+    /* padding: 20px 50px 40px 20px; */
+
+    /* margin: 40px; */
+    /* margin-top: 4;
+    margin-bottom: 40px;
+    margin-left: 80px;
+    margin-right: 80px; */
+
+    margin: 40px 50px 20px 40px;
 }
 
 .bg-yellow-h1 {
