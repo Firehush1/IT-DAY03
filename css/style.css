@@ -50,15 +50,18 @@ body {
     background-color: reIDd;
 }
 
-* {
+/* * {
     background-color: bisque;
     margin: 50;
     padding: 500;
 
-}
+} */
 
 body{
     background-image: url('../IMG/background.jpg');
-    background-size: ;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 
 }
