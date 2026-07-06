@@ -20,7 +20,10 @@ body {
     padding-bottom: 25px;                     
     padding-right: 50px;
     padding-top: 50px; */
-    padding: 50px;
+
+    /* padding: 50px; */
+
+    padding: 20px 50px 40px 20px;
 }
 
 .bg-yellow-h1 {
