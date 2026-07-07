@@ -52,6 +52,8 @@ body {
 
 .pg1-background {
     background-color: bisque;
+    margin: 24px;
+    padding: 18px;
 }
 
 /* * {
