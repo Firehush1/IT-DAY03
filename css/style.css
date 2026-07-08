@@ -79,10 +79,14 @@ body{
     /* position: relative;
     bottom: 20px;
     left: 40px; */
-
-    position: absolute;
-    bottom: 20px;
-    left: 40px;
+/* 
+    position: absolute; 
+    */
+    /* top: 20px; */
+    position: fixed;
+    bottom: 200px;
+    right: 40px;
+    border-radius: 50%;
 }
 
 #box02{
